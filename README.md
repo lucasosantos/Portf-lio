@@ -10,7 +10,7 @@ Embora eu ainda não tenha tido a oportunidade de trabalhar formalmente na área
 
 Este portfólio reúne os projetos que considero mais representativos da minha trajetória. Cada um deles reflete não apenas o que aprendi, mas também minha evolução como desenvolvedor e minha dedicação em aplicar as melhores práticas de desenvolvimento de software.
 
-Estou sempre aberto a novas oportunidades e desafios que possam contribuir para o meu crescimento profissional. Sinta-se à vontade para explorar meus projetos, e não hesite em [entrar em contato](mailto:seuemail@example.com) para discutir ideias, colaborar em projetos ou trocar conhecimentos!
+Estou sempre aberto a novas oportunidades e desafios que possam contribuir para o meu crescimento profissional. Sinta-se à vontade para explorar meus projetos, e não hesite em [entrar em contato](mailto:lucas_deosantos@hotmail.com) para discutir ideias, colaborar em projetos ou trocar conhecimentos!
 
 
 
