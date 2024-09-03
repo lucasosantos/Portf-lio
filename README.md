@@ -13,5 +13,5 @@ Estou sempre aberto a novas oportunidades e desafios que possam contribuir para 
 
 ### Projetos
 
-* [Taipa PHP (Framework)](github.com/lucasosantos/taipaPHP)
+* [Taipa PHP (Framework)](https://github.com/lucasosantos/taipaPHP)
 * Lista em construção
